@@ -1,0 +1,5 @@
+Le fichier gradle-wrapper.jar fourni dans l'archive source était invalide (10 octets).
+Il a été retiré pour ne pas présenter un faux JAR comme un wrapper officiel.
+Sur une machine avec Gradle 8.2 installé, exécuter à la racine :
+    gradle wrapper --gradle-version 8.2
+Cela régénère les scripts officiels et gradle/wrapper/gradle-wrapper.jar.
